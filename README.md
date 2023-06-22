@@ -27,6 +27,7 @@ https://github.com/HarisudhanVL/Key-Frames-Extraction-and-Object-Detection/asset
 ![video_8](https://github.com/HarisudhanVL/Key-Frames-Extraction-and-Object-Detection/assets/68286374/927803ed-e612-49b5-8e33-9731cb2871f4)
 ![video_10](https://github.com/HarisudhanVL/Key-Frames-Extraction-and-Object-Detection/assets/68286374/722a80c4-a367-4045-96bd-1f722c12ce03)
 
+##  FYI: Actually the weights file for yolov3 was not uploaded please get it from the internet.
 ### On performing object detection on these images using YOLOv3, the results are:
 
 ![Picture7](https://github.com/HarisudhanVL/Key-Frames-Extraction-and-Object-Detection/assets/68286374/a284ebc2-d5b2-4e91-93a0-a48b85be62d0)
